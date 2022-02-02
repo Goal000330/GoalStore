@@ -1,2 +1,2 @@
 # GoalStore
-This is my my our repository
+This is my  repository
